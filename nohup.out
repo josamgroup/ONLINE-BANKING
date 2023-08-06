@@ -1,0 +1,2 @@
+Running scheduled command: '/usr/bin/php7.4' 'artisan' reminders:send > '/dev/null' 2>&1
+Running scheduled command: '/usr/bin/php7.4' 'artisan' campaigns:process > '/dev/null' 2>&1
